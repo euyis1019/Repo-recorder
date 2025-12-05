@@ -8832,7 +8832,7 @@
       "2025-12-05": {
         "stars": 0,
         "clones": 0,
-        "views": 1
+        "views": 0
       }
     },
     "last_stars": 0,
@@ -8887,7 +8887,7 @@
       "2025-12-05": {
         "stars": 0,
         "clones": 0,
-        "views": 10
+        "views": 0
       }
     },
     "last_stars": 0,
@@ -9391,7 +9391,7 @@
   },
   "ImYangC7/Repo-recorder": {
     "stars": 0,
-    "clones": 72,
+    "clones": 79,
     "views": 53,
     "history": {
       "2025-11-27": {
@@ -9436,12 +9436,12 @@
       },
       "2025-12-05": {
         "stars": 0,
-        "clones": 5,
-        "views": 6
+        "clones": 7,
+        "views": 0
       }
     },
     "last_stars": 0,
-    "last_clones": 72,
+    "last_clones": 79,
     "last_views": 53
   },
   "Lin-Jiong-HDU/fairllm": {
@@ -9502,7 +9502,7 @@
   "YU-deep/Awesome-Latent-Space": {
     "stars": 156,
     "clones": 114,
-    "views": 1037,
+    "views": 1045,
     "history": {
       "2025-12-02": {
         "stars": 88,
@@ -9520,18 +9520,18 @@
         "views": 197
       },
       "2025-12-05": {
-        "stars": 9,
-        "clones": 5,
-        "views": 153
+        "stars": 0,
+        "clones": 0,
+        "views": 8
       }
     },
     "last_stars": 156,
     "last_clones": 114,
-    "last_views": 1037
+    "last_views": 1045
   },
   "FoundationAgents/VR-Bench": {
     "stars": 37,
-    "clones": 164,
+    "clones": 165,
     "views": 1111,
     "history": {
       "2025-12-04": {
@@ -9541,12 +9541,12 @@
       },
       "2025-12-05": {
         "stars": 0,
-        "clones": 0,
+        "clones": 1,
         "views": 0
       }
     },
     "last_stars": 37,
-    "last_clones": 156,
+    "last_clones": 157,
     "last_views": 902
   },
   "didiforgithub/GraphRag": {
