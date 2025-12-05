@@ -9057,12 +9057,12 @@
     },
     "last_stars": 0,
     "last_clones": 1,
-    "last_views": 94
+    "last_views": 93
   },
   "ImYangC7/VRBench_Web": {
     "stars": 1,
     "clones": 59,
-    "views": 128,
+    "views": 130,
     "history": {
       "2025-11-27": {
         "stars": 1,
@@ -9107,12 +9107,12 @@
       "2025-12-05": {
         "stars": 0,
         "clones": 0,
-        "views": 0
+        "views": 2
       }
     },
     "last_stars": 0,
     "last_clones": 31,
-    "last_views": 17
+    "last_views": 19
   },
   "Lin-Jiong-HDU/aifan": {
     "stars": 0,
@@ -9391,8 +9391,8 @@
   },
   "ImYangC7/Repo-recorder": {
     "stars": 0,
-    "clones": 79,
-    "views": 53,
+    "clones": 95,
+    "views": 87,
     "history": {
       "2025-11-27": {
         "stars": 0,
@@ -9436,13 +9436,13 @@
       },
       "2025-12-05": {
         "stars": 0,
-        "clones": 0,
-        "views": 0
+        "clones": 16,
+        "views": 34
       }
     },
     "last_stars": 0,
-    "last_clones": 79,
-    "last_views": 53
+    "last_clones": 95,
+    "last_views": 87
   },
   "Lin-Jiong-HDU/fairllm": {
     "stars": 0,
@@ -9500,9 +9500,9 @@
     "last_views": 0
   },
   "YU-deep/Awesome-Latent-Space": {
-    "stars": 156,
-    "clones": 114,
-    "views": 1045,
+    "stars": 164,
+    "clones": 115,
+    "views": 1093,
     "history": {
       "2025-12-02": {
         "stars": 88,
@@ -9520,17 +9520,17 @@
         "views": 197
       },
       "2025-12-05": {
-        "stars": 0,
-        "clones": 0,
-        "views": 0
+        "stars": 8,
+        "clones": 1,
+        "views": 48
       }
     },
-    "last_stars": 156,
-    "last_clones": 114,
-    "last_views": 1045
+    "last_stars": 164,
+    "last_clones": 115,
+    "last_views": 1093
   },
   "FoundationAgents/VR-Bench": {
-    "stars": 37,
+    "stars": 39,
     "clones": 165,
     "views": 1111,
     "history": {
@@ -9540,14 +9540,14 @@
         "views": 1111
       },
       "2025-12-05": {
-        "stars": 0,
+        "stars": 2,
         "clones": 0,
         "views": 0
       }
     },
-    "last_stars": 37,
-    "last_clones": 157,
-    "last_views": 902
+    "last_stars": 39,
+    "last_clones": 149,
+    "last_views": 889
   },
   "didiforgithub/GraphRag": {
     "stars": 0,
