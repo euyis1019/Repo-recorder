@@ -10298,5 +10298,845 @@
     "last_stars": 0,
     "last_clones": 103,
     "last_views": 80
+  },
+  "euyis1019/GDTUSCI-Web": {
+    "stars": 4,
+    "clones": 2,
+    "views": 2,
+    "history": {
+      "2025-12-13": {
+        "stars": 4,
+        "clones": 2,
+        "views": 2
+      }
+    },
+    "last_stars": 4,
+    "last_clones": 2,
+    "last_views": 2
+  },
+  "QLYYLQ/CLTrainingFramework": {
+    "stars": 2,
+    "clones": 33,
+    "views": 3,
+    "history": {
+      "2025-12-13": {
+        "stars": 2,
+        "clones": 33,
+        "views": 3
+      }
+    },
+    "last_stars": 2,
+    "last_clones": 33,
+    "last_views": 3
+  },
+  "euyis1019/Aesthetics4VLLM": {
+    "stars": 0,
+    "clones": 1,
+    "views": 0,
+    "history": {
+      "2025-12-13": {
+        "stars": 0,
+        "clones": 1,
+        "views": 0
+      }
+    },
+    "last_stars": 0,
+    "last_clones": 1,
+    "last_views": 0
+  },
+  "euyis1019/CV_Coding": {
+    "stars": 1,
+    "clones": 6,
+    "views": 0,
+    "history": {
+      "2025-12-13": {
+        "stars": 1,
+        "clones": 6,
+        "views": 0
+      }
+    },
+    "last_stars": 1,
+    "last_clones": 6,
+    "last_views": 0
+  },
+  "euyis1019/Dowload_PPT_Aberdeen": {
+    "stars": 0,
+    "clones": 1,
+    "views": 0,
+    "history": {
+      "2025-12-13": {
+        "stars": 0,
+        "clones": 1,
+        "views": 0
+      }
+    },
+    "last_stars": 0,
+    "last_clones": 1,
+    "last_views": 0
+  },
+  "JARVIS-Xs/SE-Agent": {
+    "stars": 201,
+    "clones": 27,
+    "views": 609,
+    "history": {
+      "2025-12-13": {
+        "stars": 201,
+        "clones": 27,
+        "views": 609
+      }
+    },
+    "last_stars": 201,
+    "last_clones": 27,
+    "last_views": 609
+  },
+  "euyis1019/MediTailed": {
+    "stars": 1,
+    "clones": 3,
+    "views": 0,
+    "history": {
+      "2025-12-13": {
+        "stars": 1,
+        "clones": 3,
+        "views": 0
+      }
+    },
+    "last_stars": 1,
+    "last_clones": 3,
+    "last_views": 0
+  },
+  "david188888/Data-science": {
+    "stars": 0,
+    "clones": 4,
+    "views": 0,
+    "history": {
+      "2025-12-13": {
+        "stars": 0,
+        "clones": 4,
+        "views": 0
+      }
+    },
+    "last_stars": 0,
+    "last_clones": 4,
+    "last_views": 0
+  },
+  "euyis1019/multi-turn-data-synthesis-mcp": {
+    "stars": 1,
+    "clones": 0,
+    "views": 15,
+    "history": {
+      "2025-12-13": {
+        "stars": 1,
+        "clones": 0,
+        "views": 15
+      }
+    },
+    "last_stars": 1,
+    "last_clones": 0,
+    "last_views": 15
+  },
+  "euyis1019/rebuttal_swe": {
+    "stars": 0,
+    "clones": 0,
+    "views": 0,
+    "history": {
+      "2025-12-13": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      }
+    },
+    "last_stars": 0,
+    "last_clones": 0,
+    "last_views": 0
+  },
+  "euyis1019/popo": {
+    "stars": 2,
+    "clones": 6,
+    "views": 81,
+    "history": {
+      "2025-12-13": {
+        "stars": 2,
+        "clones": 6,
+        "views": 81
+      }
+    },
+    "last_stars": 2,
+    "last_clones": 6,
+    "last_views": 81
+  },
+  "QuantaAlpha/SE-Agent": {
+    "stars": 6,
+    "clones": 4,
+    "views": 16,
+    "history": {
+      "2025-12-13": {
+        "stars": 6,
+        "clones": 4,
+        "views": 16
+      }
+    },
+    "last_stars": 6,
+    "last_clones": 4,
+    "last_views": 16
+  },
+  "euyis1019/deeplearning_assesment": {
+    "stars": 0,
+    "clones": 27,
+    "views": 9,
+    "history": {
+      "2025-12-13": {
+        "stars": 0,
+        "clones": 27,
+        "views": 9
+      }
+    },
+    "last_stars": 0,
+    "last_clones": 27,
+    "last_views": 9
+  },
+  "euyis1019/data_dw": {
+    "stars": 1,
+    "clones": 0,
+    "views": 1,
+    "history": {
+      "2025-12-13": {
+        "stars": 1,
+        "clones": 0,
+        "views": 1
+      }
+    },
+    "last_stars": 1,
+    "last_clones": 0,
+    "last_views": 1
+  },
+  "euyis1019/Vibe-Visualization": {
+    "stars": 0,
+    "clones": 0,
+    "views": 0,
+    "history": {
+      "2025-12-13": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      }
+    },
+    "last_stars": 0,
+    "last_clones": 0,
+    "last_views": 0
+  },
+  "euyis1019/VideoSeg-R1": {
+    "stars": 8,
+    "clones": 20,
+    "views": 133,
+    "history": {
+      "2025-12-13": {
+        "stars": 8,
+        "clones": 20,
+        "views": 133
+      }
+    },
+    "last_stars": 8,
+    "last_clones": 20,
+    "last_views": 133
+  },
+  "euyis1019/euyis1019.github.io": {
+    "stars": 1,
+    "clones": 46,
+    "views": 3,
+    "history": {
+      "2025-12-13": {
+        "stars": 1,
+        "clones": 46,
+        "views": 3
+      }
+    },
+    "last_stars": 1,
+    "last_clones": 46,
+    "last_views": 3
+  },
+  "euyis1019/Dataset-Config-for-CSS": {
+    "stars": 0,
+    "clones": 0,
+    "views": 1,
+    "history": {
+      "2025-12-13": {
+        "stars": 0,
+        "clones": 0,
+        "views": 1
+      }
+    },
+    "last_stars": 0,
+    "last_clones": 0,
+    "last_views": 1
+  },
+  "euyis1019/Multimodal-Sentiment-Analysis": {
+    "stars": 2,
+    "clones": 6,
+    "views": 0,
+    "history": {
+      "2025-12-13": {
+        "stars": 2,
+        "clones": 6,
+        "views": 0
+      }
+    },
+    "last_stars": 2,
+    "last_clones": 6,
+    "last_views": 0
+  },
+  "euyis1019/simple_classification_ADE20K": {
+    "stars": 0,
+    "clones": 1,
+    "views": 2,
+    "history": {
+      "2025-12-13": {
+        "stars": 0,
+        "clones": 1,
+        "views": 2
+      }
+    },
+    "last_stars": 0,
+    "last_clones": 1,
+    "last_views": 2
+  },
+  "euyis1019/euyis1019": {
+    "stars": 0,
+    "clones": 37,
+    "views": 31,
+    "history": {
+      "2025-12-13": {
+        "stars": 0,
+        "clones": 37,
+        "views": 31
+      }
+    },
+    "last_stars": 0,
+    "last_clones": 37,
+    "last_views": 31
+  },
+  "euyis1019/rllm_": {
+    "stars": 1,
+    "clones": 0,
+    "views": 0,
+    "history": {
+      "2025-12-13": {
+        "stars": 1,
+        "clones": 0,
+        "views": 0
+      }
+    },
+    "last_stars": 1,
+    "last_clones": 0,
+    "last_views": 0
+  },
+  "euyis1019/S2A": {
+    "stars": 1,
+    "clones": 4,
+    "views": 1,
+    "history": {
+      "2025-12-13": {
+        "stars": 1,
+        "clones": 4,
+        "views": 1
+      }
+    },
+    "last_stars": 1,
+    "last_clones": 4,
+    "last_views": 1
+  },
+  "euyis1019/FUBEn": {
+    "stars": 0,
+    "clones": 0,
+    "views": 0,
+    "history": {
+      "2025-12-13": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      }
+    },
+    "last_stars": 0,
+    "last_clones": 0,
+    "last_views": 0
+  },
+  "Linddiii/cable-management-system": {
+    "stars": 0,
+    "clones": 0,
+    "views": 0,
+    "history": {
+      "2025-12-13": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      }
+    },
+    "last_stars": 0,
+    "last_clones": 0,
+    "last_views": 0
+  },
+  "euyis1019/web": {
+    "stars": 0,
+    "clones": 1,
+    "views": 0,
+    "history": {
+      "2025-12-13": {
+        "stars": 0,
+        "clones": 1,
+        "views": 0
+      }
+    },
+    "last_stars": 0,
+    "last_clones": 1,
+    "last_views": 0
+  },
+  "euyis1019/toolace-mcp": {
+    "stars": 1,
+    "clones": 0,
+    "views": 3,
+    "history": {
+      "2025-12-13": {
+        "stars": 1,
+        "clones": 0,
+        "views": 3
+      }
+    },
+    "last_stars": 1,
+    "last_clones": 0,
+    "last_views": 3
+  },
+  "euyis1019/GA_Multi-obj-optimization": {
+    "stars": 4,
+    "clones": 4,
+    "views": 0,
+    "history": {
+      "2025-12-13": {
+        "stars": 4,
+        "clones": 4,
+        "views": 0
+      }
+    },
+    "last_stars": 4,
+    "last_clones": 4,
+    "last_views": 0
+  },
+  "QuantaAlpha/SE-Agent.github.io": {
+    "stars": 0,
+    "clones": 0,
+    "views": 0,
+    "history": {
+      "2025-12-13": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      }
+    },
+    "last_stars": 0,
+    "last_clones": 0,
+    "last_views": 0
+  },
+  "euyis1019/mmdetection": {
+    "stars": 0,
+    "clones": 0,
+    "views": 0,
+    "history": {
+      "2025-12-13": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      }
+    },
+    "last_stars": 0,
+    "last_clones": 0,
+    "last_views": 0
+  },
+  "euyis1019/AbdCE-WEB": {
+    "stars": 3,
+    "clones": 3,
+    "views": 2,
+    "history": {
+      "2025-12-13": {
+        "stars": 3,
+        "clones": 3,
+        "views": 2
+      }
+    },
+    "last_stars": 3,
+    "last_clones": 3,
+    "last_views": 2
+  },
+  "euyis1019/agent_evolve": {
+    "stars": 0,
+    "clones": 2,
+    "views": 0,
+    "history": {
+      "2025-12-13": {
+        "stars": 0,
+        "clones": 2,
+        "views": 0
+      }
+    },
+    "last_stars": 0,
+    "last_clones": 2,
+    "last_views": 0
+  },
+  "euyis1019/DCSS": {
+    "stars": 0,
+    "clones": 0,
+    "views": 0,
+    "history": {
+      "2025-12-13": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      }
+    },
+    "last_stars": 0,
+    "last_clones": 0,
+    "last_views": 0
+  },
+  "euyis1019/JSS": {
+    "stars": 0,
+    "clones": 3,
+    "views": 0,
+    "history": {
+      "2025-12-13": {
+        "stars": 0,
+        "clones": 3,
+        "views": 0
+      }
+    },
+    "last_stars": 0,
+    "last_clones": 3,
+    "last_views": 0
+  },
+  "euyis1019/evolve630": {
+    "stars": 1,
+    "clones": 3,
+    "views": 0,
+    "history": {
+      "2025-12-13": {
+        "stars": 1,
+        "clones": 3,
+        "views": 0
+      }
+    },
+    "last_stars": 1,
+    "last_clones": 3,
+    "last_views": 0
+  },
+  "1281203681/-C704": {
+    "stars": 0,
+    "clones": 0,
+    "views": 0,
+    "history": {
+      "2025-12-13": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      }
+    },
+    "last_stars": 0,
+    "last_clones": 0,
+    "last_views": 0
+  },
+  "wanghuacan/SE-Agent-base": {
+    "stars": 0,
+    "clones": 0,
+    "views": 0,
+    "history": {
+      "2025-12-13": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      }
+    },
+    "last_stars": 0,
+    "last_clones": 0,
+    "last_views": 0
+  },
+  "euyis1019/msa": {
+    "stars": 1,
+    "clones": 2,
+    "views": 0,
+    "history": {
+      "2025-12-13": {
+        "stars": 1,
+        "clones": 2,
+        "views": 0
+      }
+    },
+    "last_stars": 1,
+    "last_clones": 2,
+    "last_views": 0
+  },
+  "euyis1019/Personal-page": {
+    "stars": 0,
+    "clones": 0,
+    "views": 0,
+    "history": {
+      "2025-12-13": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      }
+    },
+    "last_stars": 0,
+    "last_clones": 0,
+    "last_views": 0
+  },
+  "euyis1019/Make-VLLMs-Aesthetically-Aware": {
+    "stars": 0,
+    "clones": 0,
+    "views": 0,
+    "history": {
+      "2025-12-13": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      }
+    },
+    "last_stars": 0,
+    "last_clones": 0,
+    "last_views": 0
+  },
+  "knightmarehs/MemRL": {
+    "stars": 1,
+    "clones": 3,
+    "views": 92,
+    "history": {
+      "2025-12-13": {
+        "stars": 1,
+        "clones": 3,
+        "views": 92
+      }
+    },
+    "last_stars": 1,
+    "last_clones": 3,
+    "last_views": 92
+  },
+  "euyis1019/triton_learn": {
+    "stars": 0,
+    "clones": 0,
+    "views": 0,
+    "history": {
+      "2025-12-13": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      }
+    },
+    "last_stars": 0,
+    "last_clones": 0,
+    "last_views": 0
+  },
+  "QLYYLQ/when-SAM-meets-Continual-Learning": {
+    "stars": 1,
+    "clones": 0,
+    "views": 0,
+    "history": {
+      "2025-12-13": {
+        "stars": 1,
+        "clones": 0,
+        "views": 0
+      }
+    },
+    "last_stars": 1,
+    "last_clones": 0,
+    "last_views": 0
+  },
+  "euyis1019/F3SD_Foot-3D-scanning-data": {
+    "stars": 0,
+    "clones": 4,
+    "views": 1,
+    "history": {
+      "2025-12-13": {
+        "stars": 0,
+        "clones": 4,
+        "views": 1
+      }
+    },
+    "last_stars": 0,
+    "last_clones": 4,
+    "last_views": 1
+  },
+  "euyis1019/CSS_Filter": {
+    "stars": 0,
+    "clones": 3,
+    "views": 0,
+    "history": {
+      "2025-12-13": {
+        "stars": 0,
+        "clones": 3,
+        "views": 0
+      }
+    },
+    "last_stars": 0,
+    "last_clones": 3,
+    "last_views": 0
+  },
+  "euyis1019/ACL-Paper-Scraper": {
+    "stars": 0,
+    "clones": 16,
+    "views": 10,
+    "history": {
+      "2025-12-13": {
+        "stars": 0,
+        "clones": 16,
+        "views": 10
+      }
+    },
+    "last_stars": 0,
+    "last_clones": 16,
+    "last_views": 10
+  },
+  "QLYYLQ/GTF": {
+    "stars": 0,
+    "clones": 4,
+    "views": 4,
+    "history": {
+      "2025-12-13": {
+        "stars": 0,
+        "clones": 4,
+        "views": 4
+      }
+    },
+    "last_stars": 0,
+    "last_clones": 4,
+    "last_views": 4
+  },
+  "euyis1019/fragrance-recommendation-dataset": {
+    "stars": 14,
+    "clones": 2,
+    "views": 5,
+    "history": {
+      "2025-12-13": {
+        "stars": 14,
+        "clones": 2,
+        "views": 5
+      }
+    },
+    "last_stars": 14,
+    "last_clones": 2,
+    "last_views": 5
+  },
+  "zcbm1341/doctor": {
+    "stars": 0,
+    "clones": 0,
+    "views": 0,
+    "history": {
+      "2025-12-13": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      }
+    },
+    "last_stars": 0,
+    "last_clones": 0,
+    "last_views": 0
+  },
+  "euyis1019/Decoupling-Continual-Semantic-Segmentation": {
+    "stars": 7,
+    "clones": 3,
+    "views": 15,
+    "history": {
+      "2025-12-13": {
+        "stars": 7,
+        "clones": 3,
+        "views": 15
+      }
+    },
+    "last_stars": 7,
+    "last_clones": 3,
+    "last_views": 15
+  },
+  "QuantaAlpha/EvoDeepSearch": {
+    "stars": 0,
+    "clones": 0,
+    "views": 3,
+    "history": {
+      "2025-12-13": {
+        "stars": 0,
+        "clones": 0,
+        "views": 3
+      }
+    },
+    "last_stars": 0,
+    "last_clones": 0,
+    "last_views": 3
+  },
+  "euyis1019/folder_treeForLLM": {
+    "stars": 2,
+    "clones": 3,
+    "views": 0,
+    "history": {
+      "2025-12-13": {
+        "stars": 2,
+        "clones": 3,
+        "views": 0
+      }
+    },
+    "last_stars": 2,
+    "last_clones": 3,
+    "last_views": 0
+  },
+  "Williamleejx/Text2Omni": {
+    "stars": 0,
+    "clones": 0,
+    "views": 3,
+    "history": {
+      "2025-12-13": {
+        "stars": 0,
+        "clones": 0,
+        "views": 3
+      }
+    },
+    "last_stars": 0,
+    "last_clones": 0,
+    "last_views": 3
+  },
+  "uaih3k9x/SignInSH": {
+    "stars": 0,
+    "clones": 0,
+    "views": 0,
+    "history": {
+      "2025-12-13": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      }
+    },
+    "last_stars": 0,
+    "last_clones": 0,
+    "last_views": 0
+  },
+  "euyis1019/wechat_BOT": {
+    "stars": 0,
+    "clones": 6,
+    "views": 2,
+    "history": {
+      "2025-12-13": {
+        "stars": 0,
+        "clones": 6,
+        "views": 2
+      }
+    },
+    "last_stars": 0,
+    "last_clones": 6,
+    "last_views": 2
+  },
+  "33zs/skillgrpo": {
+    "stars": 1,
+    "clones": 0,
+    "views": 0,
+    "history": {
+      "2025-12-13": {
+        "stars": 1,
+        "clones": 0,
+        "views": 0
+      }
+    },
+    "last_stars": 1,
+    "last_clones": 0,
+    "last_views": 0
   }
 }
