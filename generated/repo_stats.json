@@ -11758,6 +11758,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-09-30": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 4,
@@ -11766,7 +11771,7 @@
   },
   "QLYYLQ/CLTrainingFramework": {
     "stars": 2,
-    "clones": 144,
+    "clones": 146,
     "views": 9,
     "history": {
       "2025-12-13": {
@@ -13223,15 +13228,20 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-09-30": {
+        "stars": 0,
+        "clones": 2,
+        "views": 0
       }
     },
     "last_stars": 2,
-    "last_clones": 31,
+    "last_clones": 33,
     "last_views": 0
   },
   "euyis1019/Aesthetics4VLLM": {
     "stars": 0,
-    "clones": 25,
+    "clones": 26,
     "views": 0,
     "history": {
       "2025-12-13": {
@@ -14688,10 +14698,15 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-09-30": {
+        "stars": 0,
+        "clones": 1,
+        "views": 0
       }
     },
     "last_stars": 0,
-    "last_clones": 2,
+    "last_clones": 3,
     "last_views": 0
   },
   "euyis1019/CV_Coding": {
@@ -16153,10 +16168,15 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-09-30": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 1,
-    "last_clones": 203,
+    "last_clones": 1,
     "last_views": 1
   },
   "euyis1019/Dowload_PPT_Aberdeen": {
@@ -17618,15 +17638,20 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-09-30": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 0,
-    "last_clones": 2,
+    "last_clones": 1,
     "last_views": 0
   },
   "JARVIS-Xs/SE-Agent": {
     "stars": 300,
-    "clones": 782,
+    "clones": 810,
     "views": 5540,
     "history": {
       "2025-12-13": {
@@ -19083,15 +19108,20 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-09-30": {
+        "stars": 0,
+        "clones": 28,
+        "views": 0
       }
     },
     "last_stars": 289,
-    "last_clones": 339,
-    "last_views": 170
+    "last_clones": 367,
+    "last_views": 134
   },
   "euyis1019/MediTailed": {
     "stars": 1,
-    "clones": 30,
+    "clones": 32,
     "views": 1,
     "history": {
       "2025-12-13": {
@@ -20548,10 +20578,15 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-09-30": {
+        "stars": 0,
+        "clones": 2,
+        "views": 0
       }
     },
     "last_stars": 1,
-    "last_clones": 1,
+    "last_clones": 3,
     "last_views": 0
   },
   "david188888/Data-science": {
@@ -22013,10 +22048,15 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-09-30": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 0,
-    "last_clones": 5,
+    "last_clones": 2,
     "last_views": 0
   },
   "euyis1019/multi-turn-data-synthesis-mcp": {
@@ -23475,6 +23515,11 @@
         "views": 0
       },
       "2026-09-29": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2026-09-30": {
         "stars": 0,
         "clones": 0,
         "views": 0
@@ -24943,6 +24988,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-09-30": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 0,
@@ -26408,6 +26458,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-09-30": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 2,
@@ -26687,7 +26742,7 @@
   "euyis1019/deeplearning_assesment": {
     "stars": 0,
     "clones": 112,
-    "views": 25,
+    "views": 27,
     "history": {
       "2025-12-13": {
         "stars": 0,
@@ -28143,11 +28198,16 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-09-30": {
+        "stars": 0,
+        "clones": 0,
+        "views": 2
       }
     },
     "last_stars": 0,
-    "last_clones": 5,
-    "last_views": 0
+    "last_clones": 2,
+    "last_views": 2
   },
   "euyis1019/data_dw": {
     "stars": 1,
@@ -29605,6 +29665,11 @@
         "views": 0
       },
       "2026-09-29": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2026-09-30": {
         "stars": 0,
         "clones": 0,
         "views": 0
@@ -31073,6 +31138,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-09-30": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 0,
@@ -31082,7 +31152,7 @@
   "euyis1019/VideoSeg-R1": {
     "stars": 12,
     "clones": 118,
-    "views": 605,
+    "views": 625,
     "history": {
       "2025-12-13": {
         "stars": 8,
@@ -32538,15 +32608,20 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-09-30": {
+        "stars": 0,
+        "clones": 0,
+        "views": 20
       }
     },
     "last_stars": 9,
-    "last_clones": 12,
-    "last_views": 22
+    "last_clones": 10,
+    "last_views": 42
   },
   "euyis1019/euyis1019.github.io": {
     "stars": 1,
-    "clones": 318,
+    "clones": 321,
     "views": 36,
     "history": {
       "2025-12-13": {
@@ -34003,10 +34078,15 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-09-30": {
+        "stars": 0,
+        "clones": 3,
+        "views": 0
       }
     },
     "last_stars": 1,
-    "last_clones": 1,
+    "last_clones": 4,
     "last_views": 0
   },
   "euyis1019/Dataset-Config-for-CSS": {
@@ -35465,6 +35545,11 @@
         "views": 0
       },
       "2026-09-29": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2026-09-30": {
         "stars": 0,
         "clones": 0,
         "views": 0
@@ -36933,10 +37018,15 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-09-30": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 2,
-    "last_clones": 4,
+    "last_clones": 3,
     "last_views": 0
   },
   "euyis1019/simple_classification_ADE20K": {
@@ -38398,11 +38488,16 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-09-30": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 0,
     "last_clones": 5,
-    "last_views": 1
+    "last_views": 0
   },
   "euyis1019/euyis1019": {
     "stars": 0,
@@ -39863,10 +39958,15 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-09-30": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 0,
-    "last_clones": 5,
+    "last_clones": 2,
     "last_views": 0
   },
   "euyis1019/rllm_": {
@@ -41328,6 +41428,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-09-30": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 1,
@@ -41336,7 +41441,7 @@
   },
   "euyis1019/S2A": {
     "stars": 1,
-    "clones": 64,
+    "clones": 65,
     "views": 49,
     "history": {
       "2025-12-13": {
@@ -42793,10 +42898,15 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-09-30": {
+        "stars": 0,
+        "clones": 1,
+        "views": 0
       }
     },
     "last_stars": 1,
-    "last_clones": 2,
+    "last_clones": 3,
     "last_views": 0
   },
   "euyis1019/FUBEn": {
@@ -44255,6 +44365,11 @@
         "views": 0
       },
       "2026-09-29": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2026-09-30": {
         "stars": 0,
         "clones": 0,
         "views": 0
@@ -45723,6 +45838,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-09-30": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 0,
@@ -47185,6 +47305,11 @@
         "views": 0
       },
       "2026-09-29": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2026-09-30": {
         "stars": 0,
         "clones": 0,
         "views": 0
@@ -48653,6 +48778,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-09-30": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 1,
@@ -50118,11 +50248,16 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-09-30": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 4,
-    "last_clones": 8,
-    "last_views": 3
+    "last_clones": 5,
+    "last_views": 1
   },
   "QuantaAlpha/SE-Agent.github.io": {
     "stars": 0,
@@ -51853,6 +51988,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-09-30": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 0,
@@ -53315,6 +53455,11 @@
         "views": 0
       },
       "2026-09-29": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2026-09-30": {
         "stars": 0,
         "clones": 0,
         "views": 0
@@ -54783,10 +54928,15 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-09-30": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 0,
-    "last_clones": 3,
+    "last_clones": 2,
     "last_views": 0
   },
   "euyis1019/DCSS": {
@@ -56245,6 +56395,11 @@
         "views": 0
       },
       "2026-09-29": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2026-09-30": {
         "stars": 0,
         "clones": 0,
         "views": 0
@@ -57713,10 +57868,15 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-09-30": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 0,
-    "last_clones": 3,
+    "last_clones": 1,
     "last_views": 0
   },
   "euyis1019/evolve630": {
@@ -59178,10 +59338,15 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-09-30": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 1,
-    "last_clones": 1,
+    "last_clones": 0,
     "last_views": 0
   },
   "1281203681/-C704": {
@@ -60640,6 +60805,11 @@
         "views": 0
       },
       "2026-09-29": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2026-09-30": {
         "stars": 0,
         "clones": 0,
         "views": 0
@@ -62108,6 +62278,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-09-30": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 0,
@@ -63570,6 +63745,11 @@
         "views": 0
       },
       "2026-09-29": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2026-09-30": {
         "stars": 0,
         "clones": 0,
         "views": 0
@@ -65038,6 +65218,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-09-30": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 0,
@@ -66500,6 +66685,11 @@
         "views": 0
       },
       "2026-09-29": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2026-09-30": {
         "stars": 0,
         "clones": 0,
         "views": 0
@@ -67968,6 +68158,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-09-30": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 1,
@@ -69430,6 +69625,11 @@
         "views": 0
       },
       "2026-09-29": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2026-09-30": {
         "stars": 0,
         "clones": 0,
         "views": 0
@@ -70898,6 +71098,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-09-30": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 1,
@@ -72360,6 +72565,11 @@
         "views": 0
       },
       "2026-09-29": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2026-09-30": {
         "stars": 0,
         "clones": 0,
         "views": 0
@@ -73828,10 +74038,15 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-09-30": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 0,
-    "last_clones": 5,
+    "last_clones": 2,
     "last_views": 0
   },
   "euyis1019/ACL-Paper-Scraper": {
@@ -75293,10 +75508,15 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-09-30": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 0,
-    "last_clones": 6,
+    "last_clones": 3,
     "last_views": 0
   },
   "QLYYLQ/GTF": {
@@ -76758,6 +76978,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-09-30": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 0,
@@ -76767,7 +76992,7 @@
   "euyis1019/fragrance-recommendation-dataset": {
     "stars": 16,
     "clones": 81,
-    "views": 112,
+    "views": 118,
     "history": {
       "2025-12-13": {
         "stars": 14,
@@ -78223,11 +78448,16 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-09-30": {
+        "stars": 0,
+        "clones": 0,
+        "views": 6
       }
     },
     "last_stars": 11,
-    "last_clones": 12,
-    "last_views": 3
+    "last_clones": 7,
+    "last_views": 9
   },
   "zcbm1341/doctor": {
     "stars": 0,
@@ -79688,6 +79918,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-09-30": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 0,
@@ -79696,8 +79931,8 @@
   },
   "euyis1019/Decoupling-Continual-Semantic-Segmentation": {
     "stars": 10,
-    "clones": 80,
-    "views": 418,
+    "clones": 81,
+    "views": 423,
     "history": {
       "2025-12-13": {
         "stars": 7,
@@ -81153,11 +81388,16 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-09-30": {
+        "stars": 0,
+        "clones": 1,
+        "views": 5
       }
     },
     "last_stars": 9,
-    "last_clones": 5,
-    "last_views": 6
+    "last_clones": 6,
+    "last_views": 11
   },
   "QuantaAlpha/EvoDeepSearch": {
     "stars": 0,
@@ -82888,10 +83128,15 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-09-30": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 1,
-    "last_clones": 4,
+    "last_clones": 3,
     "last_views": 0
   },
   "Williamleejx/Text2Omni": {
@@ -84350,6 +84595,11 @@
         "views": 0
       },
       "2026-09-29": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2026-09-30": {
         "stars": 0,
         "clones": 0,
         "views": 0
@@ -85818,6 +86068,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-09-30": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 0,
@@ -87283,10 +87538,15 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-09-30": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 0,
-    "last_clones": 7,
+    "last_clones": 6,
     "last_views": 0
   },
   "33zs/skillgrpo": {
@@ -88748,6 +89008,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-09-30": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 1,
@@ -90023,6 +90288,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-09-30": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 0,
@@ -91288,10 +91558,15 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-09-30": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 0,
-    "last_clones": 2,
+    "last_clones": 1,
     "last_views": 0
   },
   "euyis1019/icml2026_lexbench": {
@@ -92545,6 +92820,11 @@
         "views": 0
       },
       "2026-09-29": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2026-09-30": {
         "stars": 0,
         "clones": 0,
         "views": 0
@@ -94018,6 +94298,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-09-30": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 2,
@@ -95103,6 +95388,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-09-30": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 0,
@@ -96173,10 +96463,15 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-09-30": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 0,
-    "last_clones": 3,
+    "last_clones": 2,
     "last_views": 0
   },
   "euyis1019/CUE-emnlp": {
@@ -97188,6 +97483,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-09-30": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 0,
@@ -98150,6 +98450,11 @@
         "views": 0
       },
       "2026-09-29": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2026-09-30": {
         "stars": 0,
         "clones": 0,
         "views": 0
@@ -99118,10 +99423,15 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-09-30": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 0,
-    "last_clones": 5,
+    "last_clones": 3,
     "last_views": 0
   },
   "euyis1019/CUE-COLM": {
@@ -100083,6 +100393,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-09-30": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 0,
@@ -101018,6 +101333,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-09-30": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 0,
@@ -101948,6 +102268,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-09-30": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 0,
@@ -102868,6 +103193,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-09-30": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 0,
@@ -102876,7 +103206,7 @@
   },
   "euyis1019/llm-brewing": {
     "stars": 6,
-    "clones": 331,
+    "clones": 335,
     "views": 129,
     "history": {
       "2026-04-09": {
@@ -103748,10 +104078,15 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-09-30": {
+        "stars": 0,
+        "clones": 4,
+        "views": 0
       }
     },
     "last_stars": 6,
-    "last_clones": 11,
+    "last_clones": 15,
     "last_views": 6
   },
   "euyis1019/yifu_resume": {
@@ -104628,6 +104963,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-09-30": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 0,
@@ -105498,6 +105838,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-09-30": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 2,
@@ -105506,7 +105851,7 @@
   },
   "euyis1019/ACE-Router": {
     "stars": 2,
-    "clones": 513,
+    "clones": 519,
     "views": 230,
     "history": {
       "2026-04-13": {
@@ -106358,11 +106703,16 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-09-30": {
+        "stars": 0,
+        "clones": 6,
+        "views": 0
       }
     },
     "last_stars": 2,
-    "last_clones": 12,
-    "last_views": 29
+    "last_clones": 18,
+    "last_views": 13
   },
   "euyis1019/Next-SCNU-Thesis": {
     "stars": 0,
@@ -107193,6 +107543,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-09-30": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 0,
@@ -107980,6 +108335,11 @@
         "views": 0
       },
       "2026-09-29": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2026-09-30": {
         "stars": 0,
         "clones": 0,
         "views": 0
@@ -108773,6 +109133,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-09-30": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 0,
@@ -109548,6 +109913,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-09-30": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 0,
@@ -109556,7 +109926,7 @@
   },
   "euyis1019/A-Lexmount-Technical-Report-Template": {
     "stars": 0,
-    "clones": 316,
+    "clones": 317,
     "views": 13,
     "history": {
       "2026-05-04": {
@@ -110303,10 +110673,15 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-09-30": {
+        "stars": 0,
+        "clones": 1,
+        "views": 0
       }
     },
     "last_stars": 0,
-    "last_clones": 3,
+    "last_clones": 4,
     "last_views": 0
   },
   "QLYYLQ/spectragent": {
@@ -111045,6 +111420,11 @@
         "views": 0
       },
       "2026-09-29": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2026-09-30": {
         "stars": 0,
         "clones": 0,
         "views": 0
@@ -111793,6 +112173,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-09-30": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 1,
@@ -112533,6 +112918,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-09-30": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 0,
@@ -113258,6 +113648,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-09-30": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 0,
@@ -113978,6 +114373,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-09-30": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 0,
@@ -114683,6 +115083,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-09-30": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 1,
@@ -115323,6 +115728,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-09-30": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 0,
@@ -115958,6 +116368,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-09-30": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 0,
@@ -116543,6 +116958,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-09-30": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 4,
@@ -116551,8 +116971,8 @@
   },
   "33zs/envace": {
     "stars": 0,
-    "clones": 10,
-    "views": 94,
+    "clones": 118,
+    "views": 98,
     "history": {
       "2026-06-16": {
         "stars": 0,
@@ -117083,11 +117503,16 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-09-30": {
+        "stars": 0,
+        "clones": 108,
+        "views": 4
       }
     },
     "last_stars": 0,
-    "last_clones": 2,
-    "last_views": 1
+    "last_clones": 110,
+    "last_views": 5
   },
   "euyis1019/mindflow": {
     "stars": 0,
@@ -117573,6 +117998,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-09-30": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 0,
@@ -118013,6 +118443,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-09-30": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 0,
@@ -118440,6 +118875,11 @@
         "views": 0
       },
       "2026-09-29": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2026-09-30": {
         "stars": 0,
         "clones": 0,
         "views": 0
@@ -118873,6 +119313,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-09-30": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 3,
@@ -119298,6 +119743,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-09-30": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 0,
@@ -119713,6 +120163,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-09-30": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 0,
@@ -120108,6 +120563,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-09-30": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 0,
@@ -120117,7 +120577,7 @@
   "euyis1019/llm-permutation": {
     "stars": 1,
     "clones": 72,
-    "views": 17,
+    "views": 18,
     "history": {
       "2026-07-16": {
         "stars": 0,
@@ -120498,11 +120958,16 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-09-30": {
+        "stars": 0,
+        "clones": 0,
+        "views": 1
       }
     },
     "last_stars": 1,
     "last_clones": 4,
-    "last_views": 0
+    "last_views": 1
   },
   "euyis1019/Brewing_arxiv_copy": {
     "stars": 0,
@@ -120888,6 +121353,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-09-30": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 0,
@@ -121218,6 +121688,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-09-30": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 0,
@@ -121543,6 +122018,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-09-30": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 0,
@@ -121843,10 +122323,15 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-09-30": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 0,
-    "last_clones": 6,
+    "last_clones": 4,
     "last_views": 0
   },
   "euyis1019/CUE-COLM-arxiv": {
@@ -122130,6 +122615,11 @@
         "views": 0
       },
       "2026-09-29": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2026-09-30": {
         "stars": 0,
         "clones": 0,
         "views": 0
@@ -122423,6 +122913,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-09-30": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 0,
@@ -122431,7 +122926,7 @@
   },
   "euyis1019/kitesurf-cdp-fixtures": {
     "stars": 0,
-    "clones": 32,
+    "clones": 33,
     "views": 1,
     "history": {
       "2026-08-08": {
@@ -122698,10 +123193,15 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-09-30": {
+        "stars": 0,
+        "clones": 1,
+        "views": 0
       }
     },
     "last_stars": 0,
-    "last_clones": 5,
+    "last_clones": 6,
     "last_views": 0
   },
   "lexmount/browser-runtime-bench": {
@@ -122973,16 +123473,21 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-09-30": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 2,
-    "last_clones": 11,
-    "last_views": 45
+    "last_clones": 1,
+    "last_views": 0
   },
   "lexmount/Lexbench-Headless-Browser": {
     "stars": 23,
-    "clones": 399,
-    "views": 508,
+    "clones": 405,
+    "views": 510,
     "history": {
       "2026-08-14": {
         "stars": 0,
@@ -123218,11 +123723,16 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-09-30": {
+        "stars": 0,
+        "clones": 6,
+        "views": 2
       }
     },
     "last_stars": 23,
-    "last_clones": 316,
-    "last_views": 176
+    "last_clones": 322,
+    "last_views": 178
   },
   "euyis1019/bb_food": {
     "stars": 0,
@@ -123458,6 +123968,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-09-30": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 0,
@@ -123593,16 +124108,21 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-09-30": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 0,
-    "last_clones": 150,
-    "last_views": 129
+    "last_clones": 135,
+    "last_views": 89
   },
   "euyis1019/imprint": {
     "stars": 0,
-    "clones": 1,
-    "views": 0,
+    "clones": 2,
+    "views": 6,
     "history": {
       "2026-09-16": {
         "stars": 0,
@@ -123673,11 +124193,16 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-09-30": {
+        "stars": 0,
+        "clones": 1,
+        "views": 6
       }
     },
     "last_stars": 0,
-    "last_clones": 1,
-    "last_views": 0
+    "last_clones": 2,
+    "last_views": 6
   },
   "euyis1019/RLIR_logs": {
     "stars": 2,
@@ -123740,6 +124265,11 @@
         "views": 0
       },
       "2026-09-29": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2026-09-30": {
         "stars": 0,
         "clones": 0,
         "views": 0
